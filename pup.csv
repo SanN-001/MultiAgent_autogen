@@ -1,0 +1,6 @@
+﻿Total revenue,Beverage,Condiments,Confections,Seafood,Produce,Dairy_Products,Regionwise rank,Beverage_score,Condiments_score,Confections_score,Seafood_score,Produce_score,Dairy_score,Revenue_category,Beverage_performance,Condiments_performance,Confections_performance,Seafood_performance,Produce_performance,Dairy_performance,Revenue_performance
+88596.56,31433.3,5315,11662.89,14521.65,6514,9273.6,1,0.899932,0.890154,0.69,1,0.53185,0.91566,Very Good,Strong sales,Weak sales,Strong sales,Strong sales,Moderate sales,Moderate sales,Very Good
+75250.69,11648.5,4410.5,16898.97,12569.55,2642.95,3938.8,2,0.370578,0.746783,1,0.865573,0.405734,0.225894,Good,Weak sales,Weak sales,Strong sales,Strong sales,Weak sales,Poor sales,Good
+96757.08,27873.3,5906,10550.4,8144.78,5789.75,6941,1,0.886744,1,0.624322,0.560872,0.888816,0.398073,Very Good,Strong sales,Strong sales,Moderate sales,Moderate sales,Strong sales,Poor sales,Very Good
+28578.25,6936.6,3630.7,6731.55,5811.15,4965.5,17436.5,3,0.220677,0.614748,0.398341,0.400171,0.762281,1,Very Bad,Poor sales,Weak sales,Weak sales,Weak sales,Strong sales,Strong sales,Very Bad
+50254.79,5468.6,2884.3,5136.75,2997.2,3556.8,11844.4,2,0.173975,0.488368,0.303968,0.206395,0.546024,0.679288,Good,Poor sales,Weak sales,Weak sales,Weak sales,Moderate sales,Moderate sales,Good

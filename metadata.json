@@ -1,0 +1,13 @@
+{
+    "PERSONA": {
+        " No.": "REAL",
+        "Sales person": "TEXT",
+        "country": "TEXT",
+        "customerID": "TEXT",
+        "Company": "TEXT",
+        "unitPrice": "TEXT",
+        "quantity": "TEXT",
+        "productName": "TEXT",
+        "categoryName": "TEXT"
+    }
+}

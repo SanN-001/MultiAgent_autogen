@@ -1,0 +1,16 @@
+{
+    "suppliers": {
+        "supplierID": "INTEGER",
+        "companyName": "TEXT",
+        "contactName": "TEXT",
+        "contactTitle": "TEXT",
+        "address": "TEXT",
+        "city": "TEXT",
+        "region": "TEXT",
+        "postalCode": "TEXT",
+        "country": "TEXT",
+        "phone": "TEXT",
+        "fax": "TEXT",
+        "homePage": "TEXT"
+    }
+}
